@@ -1,8 +1,6 @@
 baseURL: '/'
 title: nick909
 theme: hugo-theme-ladder
-license: MIT
-licenselink: 'https://github.com/guangzhengli/hugo-theme-ladder/blob/master/LICENSE'
 description: 'modding'n'stuff'
 homepage: '/'
 defaultContentLanguage: 'en'
